@@ -1,0 +1,26 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    background-color: blue;
+}
+    /* Estilos de la barra de navegación */
+.navbar {
+    background-color: #f8f8f8;
+    overflow: hidden;
+}
+  
+/* Estilos para los elementos de navegación */
+.navbar a {
+    float: left;
+    display: block;
+    color: #333;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+/* Estilos para los elementos de navegación al pasar el ratón por encima */
+.navbar a:hover {
+    background-color: #ddd;
+}
